@@ -1,0 +1,28 @@
+{
+  "name": "elm-drill",
+  "version": "1.0.0",
+  "description": "手を動かしながら Elm の文法に慣れるためのドリルです。文法の解説はしていないので別途ドキュメントが必要です。このドリルはあくまで手を動かしながら慣れるのと、どこまで理解したかをチェックするために使います。",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OHMORIYUSUKE/elm-drill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OHMORIYUSUKE/elm-drill/issues"
+  },
+  "homepage": "https://github.com/OHMORIYUSUKE/elm-drill#readme",
+  "dependencies": {
+    "elm": "^0.19.1-5",
+    "elm-format": "^0.8.5",
+    "elm-test": "^0.19.1-revision3"
+  }
+}
